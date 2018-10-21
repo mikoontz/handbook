@@ -41,7 +41,7 @@ The Carpentries Code of Conduct is a key tool for fostering and upholding an inc
 > 
 > Apart from prohibiting the obviously unacceptable stuff like harassing or vilifying anyone, it also means this:
 > 
-> * Please don't make someone feel stupid because they don't know what you know.
+> * Please don't make someone feel clueless because they don't know what you know.
 > * Please don't try to make anyone feel bad because of the hardware or software tools they use.
 > * Please don't talk over people - everyone has an equal right to be heard.
 > * Please don't mock people's questions.
